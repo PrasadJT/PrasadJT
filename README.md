@@ -5,6 +5,10 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prasadjt" alt="prasadjt" /></a> </p>
 
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
+<h3><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20px">&nbsp;About me ....</h3>
+
 
 - 🔭 I’m currently studying at **University of Ruhuna**
   
