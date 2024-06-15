@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thilina Prasad</h1>
-<h3 align="center">A passionate software developer from Sri Lanka</h3>
+<h3 align="center">Undergraduate at University of Ruhuna, Sri Lanka</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=prasadjt&label=Profile%20views&color=0e75b6&style=flat" alt="prasadjt" /> </p>
 
