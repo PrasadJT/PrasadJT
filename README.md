@@ -5,9 +5,14 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prasadjt" alt="prasadjt" /></a> </p>
 
+
 - 🔭 I’m currently studying at **University of Ruhuna**
   
-- 🌱 I’m am interested in learning Programming 
+- 🌱 I’m am interested in learning Programming
+
+- 🔭 I’m currently working on **Deep Learning & Machine Learning**
+
+- 🤝 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>
 
 - 📫 How to reach me **thilinajathunga@gmail.com**
 
